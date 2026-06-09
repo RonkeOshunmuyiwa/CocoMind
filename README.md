@@ -6,7 +6,7 @@
 
 CocoMind is an Enterprise AI agent built in Microsoft Copilot Studio that helps independent children's educational content creators go from a blank page to a fully planned episode in under 5 minutes.
 
-Built for Miss Coco Cartoons  a YouTube channel targeting toddlers aged 1–6 — CocoMind solves a real problem: solo creators spend more time on planning and admin than actually creating.
+Built for Miss Coco Cartoons  a YouTube channel targeting toddlers aged 1–6. CocoMind solves a real problem: solo creators spend more time on planning and admin than actually creating.
 
 ## The Problem
 
@@ -31,4 +31,3 @@ When the creator types a single content idea, CocoMind completes all 5 steps aut
 
 - Microsoft Copilot Studio (agent builder)
 - Office 365 Outlook (parent email drafting)
--
