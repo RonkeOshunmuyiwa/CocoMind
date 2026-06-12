@@ -30,4 +30,8 @@ When the creator types a single content idea, CocoMind completes all 5 steps aut
 ## Tools Connected
 
 - Microsoft Copilot Studio (agent builder)
+- Azure OpenAI — GPT-4o-mini (inference layer)
+- Azure AI Search / Foundry IQ (knowledge retrieval)
+- SharePoint (Miss Coco content knowledge base)
 - Office 365 Outlook (parent email drafting)
+- Excel Online (content calendar)
